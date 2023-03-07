@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Nicolas. Here's where you can find most of the *demons* I have been working in computer science at [UCBL](https://www.univ-lyon1.fr)
 
 <!--
 **LordTibu/LordTibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
