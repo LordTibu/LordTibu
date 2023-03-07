@@ -5,9 +5,8 @@ Hi, I'm Nicolas. Here's where you can find most of the *demons* I have been work
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LordTibu&show_icons=true&hide_border=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordTibu&layout=compact)](https://github.com/LordTibu/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordTibu&layout=compact)](https://github.com/LordTibu/github-readme-stats)-->
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordTibu&layout=compact)](https://github.com/LordTibu) -->
 
 ---
 <a href="https://www.linkedin.com/in/nicolas-patino-b92419251/">
