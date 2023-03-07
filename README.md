@@ -7,7 +7,7 @@ Hi, I'm Nicolas. Here's where you can find most of the *demons* I have been work
 
 ---
 <a href="https://www.linkedin.com/in/nicolas-patino-b92419251/">
-<img align="left" alt="Nicolas's linkedIN" | width="21px" LinkedIn”src="https://raw.githubusercontent.com/LordTibu/TrashCan/main/Images/linkedin.svg?token=GHSAT0AAAAAAB7WHZE6X5ZVH2KTYJ6DYWDSZAHH2KA" /> </a>
+<img align="left" alt="Nicolas's linkedIN" | width="21px" LinkedIn”src="https://raw.githubusercontent.com/LordTibu/TrashCan/main/Images/linkedin.svg" /> </a>
 
 <!--
 **LordTibu/LordTibu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
