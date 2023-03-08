@@ -1,4 +1,4 @@
-![alt text](https://github.com/LordTibu/TrashCan/blob/main/Images/nointernet.png?raw=true)
+![screen](https://github.com/LordTibu/TrashCan/blob/main/Images/nointernet.png?raw=true)
 
 
 Hi, I'm Nicolas. Here's where you can find most of the *demons* I have been working in computer science at [UCBL](https://www.univ-lyon1.fr)
