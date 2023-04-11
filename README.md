@@ -1,4 +1,7 @@
+<div>
 <img src="https://github.com/LordTibu/TrashCan/blob/main/Images/fot.gif" width="300" height="300"/>
+  Hi, I'm Nicolas. Here's where you can find most of the *demons* I have been working in computer science at [UCBL](https://www.univ-lyon1.fr)
+</div>
 
 Hi, I'm Nicolas. Here's where you can find most of the *demons* I have been working in computer science at [UCBL](https://www.univ-lyon1.fr)
 
