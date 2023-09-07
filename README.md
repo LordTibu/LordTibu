@@ -9,7 +9,7 @@ Hi, I'm Nicolas. Here's where you can find most of the *demons* I have been work
 
 
 ---
-<a href="www.linkedin.com/in/nicolas-patino-">
+<a href="https://www.linkedin.com/in/nicolas-patino-/">
 <img align="left" alt="Nicolas's linkedIN" | width="22px" src="https://raw.githubusercontent.com/LordTibu/TrashCan/main/Images/linkedin.svg" /> 
 </a>
 
